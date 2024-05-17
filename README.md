@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Starting my Flutter Journey
 
-This project is a starting point for a Flutter application.
+CodeLabs -> https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0
 
-A few resources to get you started if this is your first Flutter project:
+Started with the 'Your first Flutter App' of the Google CodeLabs example.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Worked it through and I am currently getting slowley an idea of it's capabilities / potential.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Each journey begins with a step and this was mine, now I'm looking forward to learn more about Flutter and Dart.
+
+## Further Adjusting the Example
+
+After finishing the CodeLabs example, I looked up the example on DartPad and adjusted my code to their example.
+
+DartPad -> https://dartpad.dev/?id=e7076b40fb17a0fa899f9f7a154a02e8
